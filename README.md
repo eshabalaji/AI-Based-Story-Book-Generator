@@ -88,5 +88,3 @@ This application is designed to be easily run within a Google Colab environment.
     ```
     * The `!wget` command will show you your Colab's public IP address.
     * `npx localtunnel --port 8501` will provide a public URL (e.g., `https://xxxx-your-colab-ip.loca.lt`) that you can open in your browser to access the Streamlit application.
-
-## Project Structure
