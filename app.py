@@ -5,6 +5,7 @@
 
 #!wget -q -O - ipv4.icanhazip.com
 
+'''create a file name as app.py and save the following code and run the below like '''
 #! streamlit run app.py & npx localtunnel --port 8501
 
 #=========================================================================
