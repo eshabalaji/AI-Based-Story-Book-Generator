@@ -8,7 +8,7 @@
 '''create a file name as app.py and save the following code and run the below like '''
 #! streamlit run app.py & npx localtunnel --port 8501
 
-'''write the ip address in the page to redirect to'''
+'''write the ip address in the page to redirect to streamlit'''
 #=========================================================================
 
 import streamlit as st
