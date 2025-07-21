@@ -14,7 +14,7 @@ This project develops an interactive AI-powered storybook generator, built with 
 
 ## How It Works
 
-The application orchestrates a multi-step AI pipeline:
+The application orchestrates a multi-step AI pipeline like:
 
 1.  **User Input:** The user provides a story theme or prompt via the Streamlit interface.
 2.  **Story Generation:** The prompt is sent to the **Claude 3 Haiku** model (accessed via OpenRouter API) to generate the full story text.
